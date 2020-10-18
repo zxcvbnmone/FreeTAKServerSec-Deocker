@@ -1,6 +1,6 @@
 FROM debian:10-slim
 
-MAINTAINER LargoUsagi
+MAINTAINER zxcvbnmone
 
 ARG FTS_VERSION=1.1.2
 
