@@ -1,6 +1,6 @@
 FORK FROM FreeTAKTeam/FreeTAKServer-Docker https://github.com/FreeTAKTeam/FreeTAKServer-Docker
 
-# FreeTAKServer-Docker
+# FreeTAKServerSec-Docker
 The official Docker image for FreeTAKServer.
 
 ## Usage
